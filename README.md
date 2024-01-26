@@ -1,4 +1,4 @@
-# CognoRise-Infotech
+# CognoRise Infotech
 Internship
 🚀 Exciting Internship Update! 🐍💻 Thrilled to take on some fascinating tasks using Python during my internship:
 
