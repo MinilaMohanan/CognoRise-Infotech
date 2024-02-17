@@ -12,4 +12,7 @@ Internship
    Taking on the challenge of Fake News Prediction! Leveraging Python to build models that can discern between credible and unreliable sources. 📰🕵️‍♂️
 
 Super excited about these tasks and the chance to enhance my Python skills! Stay tuned for updates on the journey. 🌐💡🚀 #InternshipTasks #PythonProgramming #MachineLearningMagic
+
 https://www.linkedin.com/feed/update/urn:li:activity:7150754939999293442/
+
+https://www.linkedin.com/feed/update/urn:li:activity:7164516519136182272/
